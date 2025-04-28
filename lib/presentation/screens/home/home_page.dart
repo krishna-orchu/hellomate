@@ -45,7 +45,7 @@ class HomePage extends StatelessWidget {
           ),
         ),
       ),
-      endDrawer: Drawer(
+      drawer: Drawer(
         child: ListView(
           children: [
             DrawerHeader(
